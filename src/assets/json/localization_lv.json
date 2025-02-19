@@ -1,3 +1,5 @@
 {
+    "camera_status_with_placeholder": "Kameras statuss, {0}",
+    "localise_integration_test_placeholders": "Sveiki, {0}, šī ir lokalizācija, mēģiniet {1}",
+    "localise_integration_test_placeholders_different_key": "Sveiki, {0}, šī ir lokalizācija, mēģiniet {1}"
 }
-

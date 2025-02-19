@@ -1,4 +1,4 @@
 {
-
+    "localise_integration_test_placeholders": "Hola {0}, soy lokalise, intento {1}",
+    "localise_integration_test_placeholders_different_key": "Hola {0}, soy lokalise, intento {1}"
 }
-
