@@ -22,3 +22,4 @@ jobs:
           translations_path:  src/assets/json
           base_lang: en
           additional_params: "--filter-data reviewed"
+          flat_naming: true 
