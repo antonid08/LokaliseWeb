@@ -21,5 +21,5 @@ jobs:
           file_format: json
           translations_path:  src/assets/json
           base_lang: en
-          additional_params: "--filter-data reviewed -placeholder-format icu"
+          additional_params: "--filter-data reviewed --placeholder-format icu"
           flat_naming: true 
