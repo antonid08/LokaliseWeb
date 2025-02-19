@@ -1,6 +1,7 @@
 {
     "system_educational_layer_camera_dialog1_title":"Camera Status",
-    "camera_status_with_placeholder": "Camera Status, {status}",
-    "localise_integration_test_placeholders": "Hello {name}, this is lokalise, attempt {attemptNumber}",
-    "localise_integration_test_placeholders_different_key": "Hello {name}, this is lokalise, attempt {attemptNumber}"
+    "camera_status_with_placeholder": "Camera Status, {0}",
+    "localise_integration_test_placeholders": "Hello {0}, this is lokalise, attempt {1}",
+    "localise_integration_test_placeholders_different_key": "Hello {0}, this is lokalise, attempt {1}"
+    "localise_integration_test_placeholders_different_key": "Hello {0}, this is lokalise, attempt {1}"
 }
