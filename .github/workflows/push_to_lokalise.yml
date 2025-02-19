@@ -20,3 +20,4 @@ jobs:
           translations_path: src/assets/json
           name_pattern: "localization_en.json"
           base_lang: en
+          rambo_mode: true 
