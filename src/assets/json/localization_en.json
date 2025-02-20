@@ -3,6 +3,6 @@
     "localise_integration_test_placeholders": "\"Hello {0}, this is lokalise, attempt {1}\"",
     "localise_integration_test_placeholders_different_key": "\"Hello {0}, this is lokalise, attempt {1}\"",
     "system_educational_layer_camera_dialog1_title": "Camera Status",
-    "test_string": "Yes",
-    "test_placeholder": "Test: %s"
+    "test_placeholder": "Test: {0}",
+    "test_string": "Yes"
 }
