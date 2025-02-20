@@ -1,4 +1,6 @@
 {
-    "localise_integration_test_placeholders": "Hola {0}, soy lokalise, intento {1}",
-    "localise_integration_test_placeholders_different_key": "Hola {0}, soy lokalise, intento {1}"
+    "camera_status_with_placeholder": "Estado de la cámara, {0}",
+    "localise_integration_test_placeholders": "\"Hola {0}, soy lokalise, intento {1}\"",
+    "localise_integration_test_placeholders_different_key": "\"Hola {0}, soy lokalise, intento {1}\"",
+    "system_educational_layer_camera_dialog1_title": "Estado de la Cámara"
 }
