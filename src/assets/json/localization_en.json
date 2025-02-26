@@ -1,12 +1,12 @@
 {
     "camera_status_with_placeholder": "Camera Status, {0}",
+    "demo_2": "String from web",
     "demo_for": "Demo for the: {0}",
     "demo_string": "Yes, demo",
     "localise_integration_test_placeholders": "\"Hello {0}, this is lokalise, attempt {1}\"",
     "localise_integration_test_placeholders_different_key": "\"Hello {0}, this is lokalise, attempt {1}\"",
+    "placeholder_demo": "Showing demo to: {0}",
     "system_educational_layer_camera_dialog1_title": "Camera Status",
     "test_placeholder": "Test: {0}",
-    "test_string": "Yes",
-    "demo_2": "String from web",
-    "placeholder_demo": "Showing demo to: {0}"
+    "test_string": "Yes"
 }
