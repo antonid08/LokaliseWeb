@@ -6,5 +6,7 @@
     "localise_integration_test_placeholders_different_key": "\"Hello {0}, this is lokalise, attempt {1}\"",
     "system_educational_layer_camera_dialog1_title": "Camera Status",
     "test_placeholder": "Test: {0}",
-    "test_string": "Yes"
+    "test_string": "Yes",
+    "demo_2": "String from web",
+    "placeholder_demo": "Showing demo to: {0}"
 }
