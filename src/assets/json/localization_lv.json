@@ -1,9 +1,11 @@
 {
     "camera_status_with_placeholder": "Kameras statuss, {0}",
+    "demo_2": "Virkne no tīmekļa",
     "demo_for": "Demonstrācija priekš: {0}",
     "demo_string": "Jā, demo",
     "localise_integration_test_placeholders": "\"Sveiki, {0}, šī ir lokalizācija, mēģiniet {1}\"",
     "localise_integration_test_placeholders_different_key": "\"Sveiki, {0}, šī ir lokalizācija, mēģiniet {1}\"",
+    "placeholder_demo": "Demonstrācijas rādīšana: {0}",
     "system_educational_layer_camera_dialog1_title": "Kameras statuss",
     "test_placeholder": "Tests: {0}",
     "test_string": "Jā"
